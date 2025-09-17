@@ -1,4 +1,5 @@
-## 🧠 AgeVerifier: Predicting Age from Faces Using Deep Learning: https://github.com/hamedtaeb/AgeVerifier-Predicting-Age-from-Faces-Using-Deep-Learning
+## 🧠 AgeVerifier: Predicting Age from Faces Using Deep Learning: 
+https://github.com/hamedtaeb/AgeVerifier-Predicting-Age-from-Faces-Using-Deep-Learning
 
 This project was built as part of a computer vision task for the supermarket chain **Good Seed**, which is exploring ways to enforce legal age restrictions on alcohol sales using facial analysis.
 
